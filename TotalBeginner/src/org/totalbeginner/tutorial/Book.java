@@ -1,4 +1,7 @@
 package org.totalbeginner.tutorial;
+/*
+ * Representation of book
+ */
 
 public class Book {
 
